@@ -1,0 +1,49 @@
+h1{
+    color: red;
+    font-size: 3em;
+}
+
+h2{
+    color: rgb(255, 111, 0);
+    font-style: italic;
+    font-size: xx-large;
+}
+
+ol{
+    color: #B25068;
+  line-height: 3;
+  font-size: 25px;
+    
+}
+
+ul{
+    color: rgb(150, 25, 25);
+    letter-spacing:6px ;
+    font-size: 25px;
+}
+
+p{
+    color: rgb(146, 161, 6);
+    font-size: 25px;
+}
+
+.yellow{
+    background-color: yellow; 
+    font-weight: bold;
+}
+
+.textdecoration{
+    text-decoration-line:line-through; 
+    font-weight: bold;
+}
+.textitalic{
+    font-style: italic; 
+    text-decoration-line: underline;
+}
+a:link{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 1.5em;
+    font-style: italic;
+    background-color: yellow;
+}
